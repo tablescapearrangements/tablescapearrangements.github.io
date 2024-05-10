@@ -3,4 +3,4 @@ title: "Vendors"
 permalink: /vendors/
 ---
 
-Test
+Our finest vendor is [Halls Chophouse](https://hallschophouse.com/).
