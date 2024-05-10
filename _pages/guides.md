@@ -1,5 +1,6 @@
 ---
-title: "Guides"
-permalink: /guides/
-layout: categories
+title: "About Us"
+permalink: /about/
 ---
+
+Hello Josh!
