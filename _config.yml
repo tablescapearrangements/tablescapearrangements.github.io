@@ -1,10 +1,11 @@
 # Site settings
-title: Myles O'Toole
+title: Tablescape Arrangements
 logo: "/assets/images/logo.png"
 description: >- # this means to ignore newlines until "baseurl:"
   Operating system guides and more.
-minimal_mistakes_skin: dark
-search: true
+
+#minimal_mistakes_skin: dark
+#search: true
 
 # Build settings
 markdown: kramdown
