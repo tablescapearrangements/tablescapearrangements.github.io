@@ -1,16 +1,23 @@
-# Site settings
+# Title of webpage:
 title: Tablescape Arrangements
-logo: "/assets/images/logo.png"
-description: >- # this means to ignore newlines until "baseurl:"
+
+# Description in google search:
+description: >- 
   Operating system guides and more.
+  
+# Where the logo is:
+logo: "/assets/images/logo.png"
+
+# The theme of the website:
 minimal_mistakes_skin: sunrise
 
-#search: true
+#------------------------------------------------------------------------#
+#            YOU SHOULDN'T HAVE TO CONFIGURE BELOW THIS LINE             #
+#------------------------------------------------------------------------#
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-title_separator: "|"
 
 # Outputting
 permalink: /:categories/:title/
