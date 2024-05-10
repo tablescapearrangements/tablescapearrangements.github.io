@@ -1,1 +1,1 @@
-- [index.html](https://www.youtube.com) is the landing page
+- [index.html](index.html) is the landing page
