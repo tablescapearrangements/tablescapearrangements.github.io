@@ -2,19 +2,3 @@
 title: "About Us"
 permalink: /about/
 ---
-
-# Welcome to Tablescape Arrangements
-
-At Tablescape Arrangements, where dreams become cherished memories. 
-
-## About Us
-
-At Tablescape Arrangements, we understand the importance of your special day. With years of experience and a passion for perfection, we strive to create weddings that reflect the unique love story of each couple. From intimate gatherings to grand celebrations, we are dedicated to bringing your vision to life.
-
-Our team of experienced planners, designers, and coordinators work tirelessly to ensure that every detail is executed flawlessly. From venue selection to floral arrangements, from catering to entertainment, we handle every aspect of your wedding with care and professionalism.
-
-We believe that every love story is beautiful and deserves to be celebrated in a way that is as unique as the couple themselves. Let us help you create the wedding of your dreams, one that will be remembered for a lifetime.
-
-## Our Mission
-
-At Tablescape Arrangements, we don't just plan weddings, we create unforgettable experiences filled with love, joy, and everlasting memories.
