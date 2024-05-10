@@ -10,6 +10,7 @@ logo: "/assets/images/logo.png"
 
 # The theme of the website:
 minimal_mistakes_skin: dirt
+title_separator: "|"
 
 #------------------------------------------------------------------------#
 #          YOU SHOULDN'T HAVE TO CONFIGURE BELOW THIS LINE               #
