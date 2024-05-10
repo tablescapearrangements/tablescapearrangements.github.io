@@ -1,5 +1,3 @@
 main:
-  - title: "Guides"
-    url: /guides/
-  - title: "My GitHub"
-    url: https://github.com/mylesotoole
+  - title: "About"
+    url: /about/
